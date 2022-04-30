@@ -5,7 +5,6 @@ go 1.12
 require (
 	github.com/Microsoft/go-winio v0.4.12 // indirect
 	github.com/Microsoft/hcsshim v0.8.6 // indirect
-	github.com/agl/ed25519 v0.0.0-20170116200512-5312a6153412 // indirect
 	github.com/btcsuite/btcd v0.0.0-20190315201642-aa6e0f35703c // indirect
 	github.com/containerd/aufs v0.0.0-20190114185352-f894a800659b
 	github.com/containerd/cgroups v0.0.0-20190226200435-dbea6f2bd416 // indirect
@@ -38,7 +37,7 @@ require (
 	github.com/multiformats/go-multiaddr v0.0.4 // indirect
 	github.com/multiformats/go-multihash v0.0.5
 	github.com/opencontainers/go-digest v1.0.0-rc1
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/opencontainers/runc v0.1.1 // indirect
 	github.com/opencontainers/runtime-spec v0.1.2-0.20190207185410-29686dbc5559
 	github.com/pkg/errors v0.8.1
@@ -47,7 +46,6 @@ require (
 	github.com/stretchr/testify v1.3.0
 	github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2 // indirect
 	go.etcd.io/bbolt v1.3.2 // indirect
-	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4
 	google.golang.org/grpc v1.19.0 // indirect
 	gotest.tools v2.2.0+incompatible // indirect
 )
